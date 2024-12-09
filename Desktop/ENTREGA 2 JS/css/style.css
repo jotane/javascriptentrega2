@@ -52,7 +52,7 @@
 .button:hover {
   background-color: rgba(165, 42, 42, 0.642);
 }
-.card {
+.card{
     width: 25rem;
     border-radius: 2rem;
     text-align: center;
