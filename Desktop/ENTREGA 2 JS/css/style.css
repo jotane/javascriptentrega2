@@ -6,6 +6,7 @@
   padding: 0;
 }
 
+
 .h1principal {
   font-weight: 400;
   font-size: 4rem;
@@ -35,6 +36,22 @@
 }
 .a:hover {
   color: rgba(165, 42, 42, 0.642);
+}
+
+.card-btn{
+  border: none;
+    font-size: 0,5rem;
+    background-color: rgba(245, 245, 220, 0.938);
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 2rem;
+    margin-left: 31rem;
+
+}
+.card-btn:hover{
+  background-color: rgba(165, 42, 42, 0.642);
 }
 
 .button{
